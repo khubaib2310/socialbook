@@ -552,6 +552,12 @@ nav {
   .container {
     display: block;
   }
+  .story4 {
+    display: none;
+  }
+  .story-gallery {
+    justify-content: space-evenly;
+  }
 }
 
 @media screen and (max-width: 500px) {
